@@ -32,7 +32,7 @@ Email: ruijiezhao@sjtu.edu.cn
 Link to our laboratory: [SJTU-NSSL](https://github.com/NSSL-SJTU "SJTU-NSSL")
 
 # Reference
-Hope this repo is useful for your research. In addition, we proposed a federated learning method based on knowledge distillation for intrusion detection:
+Hope this repo is useful for your research. In addition, we proposed a federated learning method based on knowledge distillation for intrusion detection ([SSFL-IDS](https://github.com/iZRJ/SSFL-IDS)):
 
 R. Zhao, Y. Wang, Z. Xue, T. Ohtsuki, B. Adebisi, and G. Gui, ``Semi-supervised federated learning based intrusion detection method for internet of things,'' IEEE Internet Things J., early access, doi: 10.1109/JIOT.2022.3175918.
 
